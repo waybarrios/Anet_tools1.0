@@ -1,1 +1,1 @@
-{"Rock climbing": [[9.366371549999998, 52.04542841999999]], "Mountain climbing": [[1.36420512, 28.129207409999996], [36.40471641, 69.68730897]]}
+{"annotations": {"1": {"start": 36.40471641, "end": 69.68730897, "quality": ""}, "0": {"start": 1.36420512, "end": 28.129207409999996, "quality": ""}}, "video_id": "oVnAVcbMoSM", "truepositive": "", "related": "", "activity": "Mountain climbing"}

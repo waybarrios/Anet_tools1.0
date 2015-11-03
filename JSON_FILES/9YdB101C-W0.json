@@ -1,1 +1,1 @@
-{"Painting": [[20.278095360000002, 67.6854904], [79.56833489, 88.90378957]], "Paiting furniture": [[32.827922040000004, 44.70961854], [51.34729672, 84.08452755]]}
+{"annotations": {"1": {"start": 51.34729672, "end": 84.08452755, "quality": ""}, "0": {"start": 32.827922040000004, "end": 44.70961854, "quality": ""}}, "video_id": "9YdB101C-W0", "truepositive": "", "related": "", "activity": "Paiting furniture"}

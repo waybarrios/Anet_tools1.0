@@ -1,1 +1,1 @@
-{"Playing tennis": [[81.49457808000001, 140.31795516]], "Tennis serve with ball bouncing": [[18.6988632, 69.340317], [80.00865839999999, 104.79948012]], "Ping-pong": [[20.395496280000003, 120.19560588]]}
+{"annotations": {"1": {"start": 80.00865839999999, "end": 104.79948012, "quality": ""}, "0": {"start": 20.395496280000003, "end": 120.19560588, "quality": ""}}, "video_id": "afx_9klfvEI", "truepositive": "", "related": "", "activity": "Ping-pong"}

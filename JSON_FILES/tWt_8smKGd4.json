@@ -1,1 +1,1 @@
-{"Washing face": [[45.492378360000004, 48.22130456000001], [60.28297704, 111.38370672000002]]}
+{"annotations": {"1": {"start": 60.28297704, "end": 111.38370672000002, "quality": ""}, "0": {"start": 45.492378360000004, "end": 48.22130456000001, "quality": ""}}, "video_id": "tWt_8smKGd4", "truepositive": "", "related": "", "activity": "Washing face"}

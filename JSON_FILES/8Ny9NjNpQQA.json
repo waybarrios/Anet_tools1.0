@@ -1,1 +1,1 @@
-{"Playing water polo": [[3.63820061, 7.21585062], [8.36791483, 15.0681949]], "Playing polo": [[5.032823400000001, 13.06717566]]}
+{"annotations": {"1": {"start": 8.36791483, "end": 15.0681949, "quality": ""}, "0": {"start": 5.032823400000001, "end": 13.06717566, "quality": ""}}, "video_id": "8Ny9NjNpQQA", "truepositive": "", "related": "", "activity": "Playing polo"}

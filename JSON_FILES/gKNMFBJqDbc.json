@@ -1,1 +1,1 @@
-{"Bathing dog": [[1.94037388, 3.42599616], [5.12393624, 25.28629708]]}
+{"annotations": {"1": {"start": 5.12393624, "end": 25.28629708, "quality": ""}, "0": {"start": 1.94037388, "end": 3.42599616, "quality": ""}}, "video_id": "gKNMFBJqDbc", "truepositive": "", "related": "", "activity": "Bathing dog"}

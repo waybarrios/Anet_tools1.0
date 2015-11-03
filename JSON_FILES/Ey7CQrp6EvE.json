@@ -1,1 +1,1 @@
-{"Preparing a shower for a hh child": [[51.00662132, 105.13523948], [118.34805114, 176.90124894000002]], "Feeding hh child": [[31.822938179999998, 35.73278752], [57.582563519999994, 168.83994216]]}
+{"annotations": {"1": {"start": 57.582563519999994, "end": 168.83994216, "quality": ""}, "0": {"start": 31.822938179999998, "end": 35.73278752, "quality": ""}}, "video_id": "Ey7CQrp6EvE", "truepositive": "", "related": "", "activity": "Feeding hh child"}

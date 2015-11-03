@@ -1,1 +1,1 @@
-{"Phoning": [[20.553981750000002, 51.749266500000004], [62.29906785000001, 83.15692545]]}
+{"annotations": {"1": {"start": 62.29906785000001, "end": 83.15692545, "quality": ""}, "0": {"start": 20.553981750000002, "end": 51.749266500000004, "quality": ""}}, "video_id": "WEnCMjKp0JQ", "truepositive": "", "related": "", "activity": "Phoning"}

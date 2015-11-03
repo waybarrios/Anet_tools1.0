@@ -1,1 +1,1 @@
-{"Putting roast in oven": [[0.21227117, 0.9097042299999999], [3.45716376, 14.58691314]], "Cleaning microwave oven": [[3.3965442099999996, 9.73467777]]}
+{"annotations": {"1": {"start": 3.45716376, "end": 14.58691314, "quality": ""}, "0": {"start": 3.3965442099999996, "end": 9.73467777, "quality": ""}}, "video_id": "AlbecqAYiDI", "truepositive": "", "related": "", "activity": "Cleaning microwave oven"}

@@ -1,1 +1,1 @@
-{"Hand washing clothes": [[0.12126730000000001, 6.6429282], [7.431638120000001, 11.556931180000001]]}
+{"annotations": {"1": {"start": 7.431638120000001, "end": 11.556931180000001, "quality": ""}, "0": {"start": 0.12126730000000001, "end": 6.6429282, "quality": ""}}, "video_id": "optJ47P_5Ys", "truepositive": "", "related": "", "activity": "Hand washing clothes"}

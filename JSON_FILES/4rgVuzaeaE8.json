@@ -1,1 +1,1 @@
-{"Fixing bicycle": [[4.1822798400000005, 64.70142624], [79.85369232000001, 123.00771456000001]]}
+{"annotations": {"1": {"start": 79.85369232000001, "end": 123.00771456000001, "quality": ""}, "0": {"start": 4.1822798400000005, "end": 64.70142624, "quality": ""}}, "video_id": "4rgVuzaeaE8", "truepositive": "", "related": "", "activity": "Fixing bicycle"}

@@ -1,1 +1,1 @@
-{"Ping-pong": [[10.2131484, 50.36784479999999], [59.0048004, 61.0052352]]}
+{"annotations": {"1": {"start": 59.0048004, "end": 61.0052352, "quality": ""}, "0": {"start": 10.2131484, "end": 50.36784479999999, "quality": ""}}, "video_id": "QGY7zA03RkE", "truepositive": "", "related": "", "activity": "Ping-pong"}

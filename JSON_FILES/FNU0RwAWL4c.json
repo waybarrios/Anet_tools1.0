@@ -1,1 +1,1 @@
-{"Fixing bicycle": [[31.00302785, 123.19012247], [135.25056508999998, 137.64515469]], "Checking tires": [[114.06765709, 203.83253223]]}
+{"annotations": {"1": {"start": 135.25056508999998, "end": 137.64515469, "quality": ""}, "0": {"start": 114.06765709, "end": 203.83253223, "quality": ""}}, "video_id": "FNU0RwAWL4c", "truepositive": "", "related": "", "activity": "Checking tires"}

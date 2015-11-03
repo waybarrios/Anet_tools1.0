@@ -1,1 +1,1 @@
-{"Buying movie tickets": [[12.608586240000001, 64.01492592000001], [71.59325304000001, 99.23544048000001]]}
+{"annotations": {"1": {"start": 71.59325304000001, "end": 99.23544048000001, "quality": ""}, "0": {"start": 12.608586240000001, "end": 64.01492592000001, "quality": ""}}, "video_id": "mmcupzRVA2s", "truepositive": "", "related": "", "activity": "Buying movie tickets"}

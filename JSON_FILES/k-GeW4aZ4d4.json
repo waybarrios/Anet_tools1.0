@@ -1,1 +1,1 @@
-{"Drinking coffee": [[6.30355407, 59.122870500000005], [69.36679509000001, 123.73213563000002]]}
+{"annotations": {"1": {"start": 69.36679509000001, "end": 123.73213563000002, "quality": ""}, "0": {"start": 6.30355407, "end": 59.122870500000005, "quality": ""}}, "video_id": "k-GeW4aZ4d4", "truepositive": "", "related": "", "activity": "Drinking coffee"}

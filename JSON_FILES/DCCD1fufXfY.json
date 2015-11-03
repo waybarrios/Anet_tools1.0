@@ -1,1 +1,1 @@
-{"Drinking beer": [[10.79362368, 20.40498432], [23.466983040000002, 32.25993408]]}
+{"annotations": {"1": {"start": 23.466983040000002, "end": 32.25993408, "quality": ""}, "0": {"start": 10.79362368, "end": 20.40498432, "quality": ""}}, "video_id": "DCCD1fufXfY", "truepositive": "", "related": "", "activity": "Drinking beer"}

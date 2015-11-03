@@ -1,1 +1,1 @@
-{"Resting": [[0.5762885400000001, 1.6977514500000002], [5.06349297, 32.32176054]]}
+{"annotations": {"1": {"start": 5.06349297, "end": 32.32176054, "quality": ""}, "0": {"start": 0.5762885400000001, "end": 1.6977514500000002, "quality": ""}}, "video_id": "b1sUSapjcs4", "truepositive": "", "related": "", "activity": "Resting"}

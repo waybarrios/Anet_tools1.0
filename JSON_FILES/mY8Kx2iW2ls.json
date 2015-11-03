@@ -1,1 +1,1 @@
-{"Washing hands": [[44.6984083, 89.1556952], [101.0954347, 138.00604479999998]]}
+{"annotations": {"1": {"start": 101.0954347, "end": 138.00604479999998, "quality": ""}, "0": {"start": 44.6984083, "end": 89.1556952, "quality": ""}}, "video_id": "mY8Kx2iW2ls", "truepositive": "", "related": "", "activity": "Washing hands"}

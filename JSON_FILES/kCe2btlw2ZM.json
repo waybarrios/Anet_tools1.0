@@ -1,1 +1,1 @@
-{"Checking tires": [[29.39820075, 117.01707525]], "Putting air in tires": [[40.187765250000005, 88.49804850000001], [97.0142265, 108.92572200000001]]}
+{"annotations": {"1": {"start": 97.0142265, "end": 108.92572200000001, "quality": ""}, "0": {"start": 40.187765250000005, "end": 88.49804850000001, "quality": ""}}, "video_id": "kCe2btlw2ZM", "truepositive": "", "related": "", "activity": "Putting air in tires"}

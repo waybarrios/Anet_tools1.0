@@ -1,1 +1,1 @@
-{"Shot put": [[13.578029200000001, 37.672739840000006], [42.643327, 56.313262280000004]]}
+{"annotations": {"1": {"start": 42.643327, "end": 56.313262280000004, "quality": ""}, "0": {"start": 13.578029200000001, "end": 37.672739840000006, "quality": ""}}, "video_id": "qPZwXF1Xcpw", "truepositive": "", "related": "", "activity": "Shot put"}

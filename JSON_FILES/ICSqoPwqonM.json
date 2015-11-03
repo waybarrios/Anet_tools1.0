@@ -1,1 +1,1 @@
-{"Cleaning garage": [[0.21269118000000004, 4.49684404], [5.9855857100000005, 7.07937087]]}
+{"annotations": {"1": {"start": 5.9855857100000005, "end": 7.07937087, "quality": ""}, "0": {"start": 0.21269118000000004, "end": 4.49684404, "quality": ""}}, "video_id": "ICSqoPwqonM", "truepositive": "", "related": "", "activity": "Cleaning garage"}

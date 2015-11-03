@@ -1,0 +1,66 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jul  7 13:56:55 2015
+
+@author: waybarrios
+"""
+#Python libs 
+import numpy as np
+import yt_info as yt
+
+#Load array with IDs videos
+list_indx=np.load('data/array_posic_id.npy')
+youtube_ids=np.load('data/array_list_id.npy')
+
+#load arrays with unavailable IDs
+error_ids=np.load('data/array_ERROR_IDS2.npy')
+usa_ids=np.load('data/array_USA_IDS2.npy')
+
+#ADD IDs into unique array
+ids_nodisp=[]
+ids_nodisp.extend(usa_ids)
+ids_nodisp.extend(error_ids)
+
+#Initialize array with metadata per youtube video
+metadata_videos=[]
+
+print len(youtube_ids)
+print len(list_indx)
+
+"""
+///---------------------------------------------------------------------------------
+
+Note len(list_indx)=203 it means 203 classes on activity-net.org
+For example list_indx[1] corresponds to  Drinking coffee class. 
+So list_indx[1] has all indexs from  list_name,list_id, list_ uframes, list_url from Drinking
+coffee videos.
+
+///---------------------------------------------------------------------------------
+"""
+
+
+#Get metadata from Youtube IDs
+for i in range (len(youtube_ids)):
+    print "//------------------------------"
+    print "Para i: ",i
+    if  i in ids_nodisp:
+        print "el video con el id: ",youtube_ids[i]
+        print "[0,0,0,0]"
+        metadata_videos.append([0,0,0,0])
+        print ""
+   # elif i==123:
+        # metadata_videos.append([188,'1920x1080',4386,30])
+        
+    else:
+        print "el video con el id: ",youtube_ids[i]
+        #Calculate metadata per video
+        duration,resolution,bitrate,fps=yt.retrieve_video_info(youtube_ids[i])
+        #Add metadata into metadata_videos list
+        metadata_videos.append([duration,resolution,bitrate,fps])
+        print [duration,resolution,bitrate,fps]
+        print ""
+    
+np.save('data/array_metadata_videos/',metadata_videos)
+
+print "Tamaño total es: ", len (metadata_videos)
+

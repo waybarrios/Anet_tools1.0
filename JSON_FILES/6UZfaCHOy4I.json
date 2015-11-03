@@ -1,1 +1,1 @@
-{"Cleaning refrigerator": [[11.76163266, 23.82616887], [27.160351649999996, 58.35268610999999]]}
+{"annotations": {"1": {"start": 27.160351649999996, "end": 58.35268610999999, "quality": ""}, "0": {"start": 11.76163266, "end": 23.82616887, "quality": ""}}, "video_id": "6UZfaCHOy4I", "truepositive": "", "related": "", "activity": "Cleaning refrigerator"}

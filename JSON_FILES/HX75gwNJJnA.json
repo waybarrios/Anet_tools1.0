@@ -1,1 +1,1 @@
-{"Fixing bicycle": [[2.90895684, 138.37045095], [154.43394921, 164.16106041]], "Putting air in tires": [[21.303291180000002, 184.00987317]]}
+{"annotations": {"1": {"start": 154.43394921, "end": 164.16106041, "quality": ""}, "0": {"start": 21.303291180000002, "end": 184.00987317, "quality": ""}}, "video_id": "HX75gwNJJnA", "truepositive": "", "related": "", "activity": "Putting air in tires"}

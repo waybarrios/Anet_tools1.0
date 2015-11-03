@@ -1,1 +1,1 @@
-{"Making a sandwich": [[34.97210985, 43.459173150000005], [75.88559330000001, 186.50289405]], "Making tea": [[10.7279571, 151.49858745000003]]}
+{"annotations": {"1": {"start": 75.88559330000001, "end": 186.50289405, "quality": ""}, "0": {"start": 10.7279571, "end": 151.49858745000003, "quality": ""}}, "video_id": "NR0pVgo9Ck8", "truepositive": "", "related": "", "activity": "Making tea"}

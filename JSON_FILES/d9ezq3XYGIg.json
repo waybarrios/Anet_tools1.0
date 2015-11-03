@@ -1,1 +1,1 @@
-{"Brewing beer": [[6.0017945600000004, 44.34534144], [49.5282368, 72.23124224]]}
+{"annotations": {"1": {"start": 49.5282368, "end": 72.23124224, "quality": ""}, "0": {"start": 6.0017945600000004, "end": 44.34534144, "quality": ""}}, "video_id": "d9ezq3XYGIg", "truepositive": "", "related": "", "activity": "Brewing beer"}

@@ -1,1 +1,1 @@
-{"Wiping table": [[12.48613524, 101.89338792000001]], "Polishing forniture": [[15.66952608, 20.336103360000003], [30.42812964, 118.92584208000001]]}
+{"annotations": {"1": {"start": 30.42812964, "end": 118.92584208000001, "quality": ""}, "0": {"start": 15.66952608, "end": 20.336103360000003, "quality": ""}}, "video_id": "cffFkZouNJM", "truepositive": "", "related": "", "activity": "Polishing forniture"}

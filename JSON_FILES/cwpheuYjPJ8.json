@@ -1,1 +1,1 @@
-{"Playing tennis": [[6.99980085, 79.1217918], [88.48599705, 104.03073090000001]], "Playing piano": [[85.09252545, 127.97032544999999]]}
+{"annotations": {"1": {"start": 88.48599705, "end": 104.03073090000001, "quality": ""}, "0": {"start": 85.09252545, "end": 127.97032544999999, "quality": ""}}, "video_id": "cwpheuYjPJ8", "truepositive": "", "related": "", "activity": "Playing piano"}

@@ -1,1 +1,1 @@
-{"Sweeping sidewalk": [[0.09091, 0.12121], [0.21212, 0.81818]]}
+{"annotations": {"1": {"start": 0.21212, "end": 0.81818, "quality": ""}, "0": {"start": 0.09091, "end": 0.12121, "quality": ""}}, "video_id": "TELnVxzEak0", "truepositive": "", "related": "", "activity": "Sweeping sidewalk"}

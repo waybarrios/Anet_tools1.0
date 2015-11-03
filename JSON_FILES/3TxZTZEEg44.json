@@ -1,1 +1,1 @@
-{"Tennis serve with ball bouncing": [[4.42500888, 88.24458708], [106.7913642, 122.91238344]]}
+{"annotations": {"1": {"start": 106.7913642, "end": 122.91238344, "quality": ""}, "0": {"start": 4.42500888, "end": 88.24458708, "quality": ""}}, "video_id": "3TxZTZEEg44", "truepositive": "", "related": "", "activity": "Tennis serve with ball bouncing"}

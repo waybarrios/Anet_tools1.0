@@ -1,1 +1,1 @@
-{"Putting roast in oven": [[20.000166200000002, 80.93990264], [93.94032883999999, 99.03104884]]}
+{"annotations": {"1": {"start": 93.94032883999999, "end": 99.03104884, "quality": ""}, "0": {"start": 20.000166200000002, "end": 80.93990264, "quality": ""}}, "video_id": "DAhL9enQva8", "truepositive": "", "related": "", "activity": "Putting roast in oven"}

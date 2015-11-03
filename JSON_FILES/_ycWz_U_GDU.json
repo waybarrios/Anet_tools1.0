@@ -1,1 +1,1 @@
-{"Fixing leaks": [[10.1519716, 40.9410783], [45.8499738, 69.9416267]], "Cleaning refrigerator": [[4.7576244, 75.00278200000001]]}
+{"annotations": {"1": {"start": 45.8499738, "end": 69.9416267, "quality": ""}, "0": {"start": 4.7576244, "end": 75.00278200000001, "quality": ""}}, "video_id": "_ycWz_U_GDU", "truepositive": "", "related": "", "activity": "Cleaning refrigerator"}

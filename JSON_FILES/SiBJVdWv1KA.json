@@ -1,1 +1,1 @@
-{"Cleaning toilet": [[11.698236, 25.123589999999997], [38.245977, 90.2192445]]}
+{"annotations": {"1": {"start": 38.245977, "end": 90.2192445, "quality": ""}, "0": {"start": 11.698236, "end": 25.123589999999997, "quality": ""}}, "video_id": "SiBJVdWv1KA", "truepositive": "", "related": "", "activity": "Cleaning toilet"}

@@ -1,1 +1,1 @@
-{"Watering garden": [[3.88755717, 8.53437564], [9.718776830000001, 20.591770150000002]]}
+{"annotations": {"1": {"start": 9.718776830000001, "end": 20.591770150000002, "quality": ""}, "0": {"start": 3.88755717, "end": 8.53437564, "quality": ""}}, "video_id": "Z_19srgMG10", "truepositive": "", "related": "", "activity": "Watering garden"}

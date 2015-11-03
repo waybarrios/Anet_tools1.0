@@ -1,1 +1,1 @@
-{"Walking the dog": [[0.9703341999999999, 3.97198244], [6.124968480000001, 22.831750800000002]]}
+{"annotations": {"1": {"start": 6.124968480000001, "end": 22.831750800000002, "quality": ""}, "0": {"start": 0.9703341999999999, "end": 3.97198244, "quality": ""}}, "video_id": "m20pp8AIqio", "truepositive": "", "related": "", "activity": "Walking the dog"}

@@ -1,1 +1,1 @@
-{"Archery": [[61.25566272, 70.97955424], [76.81328242000001, 84.49450954000001]]}
+{"annotations": {"1": {"start": 76.81328242000001, "end": 84.49450954000001, "quality": ""}, "0": {"start": 61.25566272, "end": 70.97955424, "quality": ""}}, "video_id": "p6HFyIZxy7Y", "truepositive": "", "related": "", "activity": "Archery"}

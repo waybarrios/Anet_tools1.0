@@ -1,1 +1,1 @@
-{"Checking tires": [[34.13942532, 62.51757788], [68.79295676000001, 92.50246996]]}
+{"annotations": {"1": {"start": 68.79295676000001, "end": 92.50246996, "quality": ""}, "0": {"start": 34.13942532, "end": 62.51757788, "quality": ""}}, "video_id": "OzalszGF1_s", "truepositive": "", "related": "", "activity": "Checking tires"}

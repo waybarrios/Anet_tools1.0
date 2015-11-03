@@ -1,1 +1,1 @@
-{"Hand washing clothes": [[28.73406538, 60.74130849], [65.37873607, 85.14145356]], "Sorting laundry": [[2.78879239, 24.309195080000002], [35.038228170000004, 88.05083133000001]]}
+{"annotations": {"1": {"start": 35.038228170000004, "end": 88.05083133000001, "quality": ""}, "0": {"start": 2.78879239, "end": 24.309195080000002, "quality": ""}}, "video_id": "yOsBn-nbycg", "truepositive": "", "related": "", "activity": "Sorting laundry"}

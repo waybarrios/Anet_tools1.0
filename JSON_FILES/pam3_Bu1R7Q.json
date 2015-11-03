@@ -1,1 +1,1 @@
-{"Cleaning microwave oven": [[44.970581640000006, 57.364413160000005], [66.66804495000001, 127.24487846000001]]}
+{"annotations": {"1": {"start": 66.66804495000001, "end": 127.24487846000001, "quality": ""}, "0": {"start": 44.970581640000006, "end": 57.364413160000005, "quality": ""}}, "video_id": "pam3_Bu1R7Q", "truepositive": "", "related": "", "activity": "Cleaning microwave oven"}

@@ -1,1 +1,1 @@
-{"Picking fruits and vegetables": [[73.98323806, 88.56071744], [110.65552758000001, 152.93615068000003]]}
+{"annotations": {"1": {"start": 110.65552758000001, "end": 152.93615068000003, "quality": ""}, "0": {"start": 73.98323806, "end": 88.56071744, "quality": ""}}, "video_id": "fD6WbizuO84", "truepositive": "", "related": "", "activity": "Picking fruits and vegetables"}

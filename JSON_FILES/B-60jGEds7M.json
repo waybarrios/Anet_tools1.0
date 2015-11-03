@@ -1,1 +1,1 @@
-{"Sailing": [[18.2472048, 33.5539392], [42.162102000000004, 83.4754968]]}
+{"annotations": {"1": {"start": 42.162102000000004, "end": 83.4754968, "quality": ""}, "0": {"start": 18.2472048, "end": 33.5539392, "quality": ""}}, "video_id": "B-60jGEds7M", "truepositive": "", "related": "", "activity": "Sailing"}

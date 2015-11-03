@@ -1,1 +1,1 @@
-{"Kayaking": [[5.6379044799999996, 51.006853039999996], [64.25053439999999, 148.74518152]]}
+{"annotations": {"1": {"start": 64.25053439999999, "end": 148.74518152, "quality": ""}, "0": {"start": 5.6379044799999996, "end": 51.006853039999996, "quality": ""}}, "video_id": "rtdvxgGfDKo", "truepositive": "", "related": "", "activity": "Kayaking"}

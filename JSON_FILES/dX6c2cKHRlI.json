@@ -1,1 +1,1 @@
-{"Tumbling": [[8.87999778, 110.92009221], [121.79930988, 134.43810732]], "Cheerleading": [[35.30697768, 164.50184793]]}
+{"annotations": {"1": {"start": 121.79930988, "end": 134.43810732, "quality": ""}, "0": {"start": 35.30697768, "end": 164.50184793, "quality": ""}}, "video_id": "dX6c2cKHRlI", "truepositive": "", "related": "", "activity": "Cheerleading"}

@@ -1,1 +1,1 @@
-{"Checking tires": [[77.9761584, 123.07078028000001], [141.67854652, 171.52966404]]}
+{"annotations": {"1": {"start": 141.67854652, "end": 171.52966404, "quality": ""}, "0": {"start": 77.9761584, "end": 123.07078028000001, "quality": ""}}, "video_id": "ZOm6XXkmq4U", "truepositive": "", "related": "", "activity": "Checking tires"}

@@ -1,1 +1,1 @@
-{"Polishing shoes": [[29.396444969999997, 51.580105440000004], [61.277975549999994, 70.06631865]], "Cleaning shoes": [[16.8502923, 79.03677177]]}
+{"annotations": {"1": {"start": 61.277975549999994, "end": 70.06631865, "quality": ""}, "0": {"start": 16.8502923, "end": 79.03677177, "quality": ""}}, "video_id": "F2x2fynkbAQ", "truepositive": "", "related": "", "activity": "Cleaning shoes"}

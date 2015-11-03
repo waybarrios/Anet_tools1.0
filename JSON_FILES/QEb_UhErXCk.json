@@ -1,1 +1,1 @@
-{"Washing dishes": [[12.0411663, 23.8392097], [26.0834886, 33.6053776]]}
+{"annotations": {"1": {"start": 26.0834886, "end": 33.6053776, "quality": ""}, "0": {"start": 12.0411663, "end": 23.8392097, "quality": ""}}, "video_id": "QEb_UhErXCk", "truepositive": "", "related": "", "activity": "Washing dishes"}

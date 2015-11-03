@@ -1,1 +1,1 @@
-{"Assembling bicycle": [[24.343344, 44.38203048]], "Changing wheel": [[3.94122168, 27.40569096], [30.43718016, 46.534644959999994]]}
+{"annotations": {"1": {"start": 30.43718016, "end": 46.534644959999994, "quality": ""}, "0": {"start": 3.94122168, "end": 27.40569096, "quality": ""}}, "video_id": "xFx7UXyjW4Y", "truepositive": "", "related": "", "activity": "Changing wheel"}

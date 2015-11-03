@@ -1,1 +1,1 @@
-{"Packing food": [[43.60889625, 95.03567125000001], [103.5509125, 125.03709624999999]]}
+{"annotations": {"1": {"start": 103.5509125, "end": 125.03709624999999, "quality": ""}, "0": {"start": 43.60889625, "end": 95.03567125000001, "quality": ""}}, "video_id": "HLjhEKetsGk", "truepositive": "", "related": "", "activity": "Packing food"}

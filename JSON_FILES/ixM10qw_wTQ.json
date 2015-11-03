@@ -1,1 +1,1 @@
-{"Having a facial": [[17.42793624, 53.03994696000001], [76.226436, 95.22966024000002]], "Shaving": [[19.67009616, 127.56857256]]}
+{"annotations": {"1": {"start": 76.226436, "end": 95.22966024000002, "quality": ""}, "0": {"start": 19.67009616, "end": 127.56857256, "quality": ""}}, "video_id": "ixM10qw_wTQ", "truepositive": "", "related": "", "activity": "Shaving"}

@@ -1,1 +1,1 @@
-{"Playing with hh child": [[33.63848331, 45.82242254999999], [55.88395539, 89.97676632]], "Singing with hh child": [[22.48590093, 125.40437189999999], [134.13111009, 141.13173494999998]]}
+{"annotations": {"1": {"start": 134.13111009, "end": 141.13173494999998, "quality": ""}, "0": {"start": 22.48590093, "end": 125.40437189999999, "quality": ""}}, "video_id": "9mmF8zOlh_g", "truepositive": "", "related": "", "activity": "Singing with hh child"}

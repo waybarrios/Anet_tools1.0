@@ -1,1 +1,1 @@
-{"Bowling": [[39.70048953, 46.09572396], [52.45968585, 102.10123473]]}
+{"annotations": {"1": {"start": 52.45968585, "end": 102.10123473, "quality": ""}, "0": {"start": 39.70048953, "end": 46.09572396, "quality": ""}}, "video_id": "dZhN_fE1b2g", "truepositive": "", "related": "", "activity": "Bowling"}

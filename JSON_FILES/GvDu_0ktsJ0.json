@@ -1,1 +1,1 @@
-{"Preparing salad": [[13.39473132, 87.0317568], [108.30618624, 157.76205759]], "Preparing pasta": [[55.667838540000005, 116.51829732000002]]}
+{"annotations": {"1": {"start": 108.30618624, "end": 157.76205759, "quality": ""}, "0": {"start": 55.667838540000005, "end": 116.51829732000002, "quality": ""}}, "video_id": "GvDu_0ktsJ0", "truepositive": "", "related": "", "activity": "Preparing pasta"}

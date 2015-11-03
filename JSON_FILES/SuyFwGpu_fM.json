@@ -1,1 +1,1 @@
-{"Cleaning toilet": [[25.186793769999998, 47.43347437999999], [53.46474594, 62.19375573999999]]}
+{"annotations": {"1": {"start": 53.46474594, "end": 62.19375573999999, "quality": ""}, "0": {"start": 25.186793769999998, "end": 47.43347437999999, "quality": ""}}, "video_id": "SuyFwGpu_fM", "truepositive": "", "related": "", "activity": "Cleaning toilet"}

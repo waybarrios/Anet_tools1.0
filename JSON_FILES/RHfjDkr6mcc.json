@@ -1,1 +1,1 @@
-{"Ironing clothes": [[11.000196480000001, 42.03181584000001], [48.82015208000001, 103.63942512]]}
+{"annotations": {"1": {"start": 48.82015208000001, "end": 103.63942512, "quality": ""}, "0": {"start": 11.000196480000001, "end": 42.03181584000001, "quality": ""}}, "video_id": "RHfjDkr6mcc", "truepositive": "", "related": "", "activity": "Ironing clothes"}
